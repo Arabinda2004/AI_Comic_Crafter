@@ -77,3 +77,8 @@ Support for animated comic panels
 Multi-page comic strip generation
 
 Advanced customization options for comic styles and themes
+
+
+
+
+[DEMO_VIDEO](https://drive.google.com/file/d/1GFB5JwSjwn0Teu3UfGU4aiDRhFccwmFx/view?usp=sharing)
