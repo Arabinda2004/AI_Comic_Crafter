@@ -81,4 +81,7 @@ Advanced customization options for comic styles and themes
 
 
 
-[DEMO_VIDEO](https://drive.google.com/file/d/1GFB5JwSjwn0Teu3UfGU4aiDRhFccwmFx/view?usp=sharing)
+[DEMO VIDEO](https://drive.google.com/file/d/1GFB5JwSjwn0Teu3UfGU4aiDRhFccwmFx/view?usp=sharing)
+
+
+[Download Video](https://github.com/Arabinda2004/AI_Comic_Crafter/releases/download/video/demo_video.mp4)
